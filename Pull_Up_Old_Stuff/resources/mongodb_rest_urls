@@ -1,0 +1,11 @@
+// full url
+https://api.mongolab.com/api/1/databases/heroku_app10283718/collections/pullinflux?apiKey=50d54368e4b08525c699cc0b
+
+// list databases
+https://api.mongolab.com/api/1/databases?apiKey=50d54368e4b08525c699cc0b
+
+// list collections
+https://api.mongolab.com/api/1/databases/heroku_app10283718/collections?apiKey=50d54368e4b08525c699cc0b
+
+// base url
+https://api.mongolab.com/api/1
